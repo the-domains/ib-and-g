@@ -1,7 +1,7 @@
 name: 'IB&G'
 favicon: null
-layout_spectrum: 0.34002632345072925
-typography_spectrum: 0.5765
+layout_spectrum: 1
+typography_spectrum: 0.61276
 cta:
   domain: null
   bucket: null
