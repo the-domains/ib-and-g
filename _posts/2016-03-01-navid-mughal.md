@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T17:57:37.995Z'
-dateModified: '2016-03-01T17:38:18.488Z'
+datePublished: '2016-03-01T17:59:52.584Z'
+dateModified: '2016-03-01T17:59:40.378Z'
 title: Navid Mughal
 author: []
+sourcePath: _posts/2016-03-01-navid-mughal.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-navid-mughal.md
-published: true
 url: navid-mughal/index.html
 _type: Article
 
 ---
-# Navid Mughal
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da894c52-0fe4-4989-b4a0-a28487d380a8.png)
