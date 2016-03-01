@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[IB&G]]></title>
+        <description><![CDATA[IB&G]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 17:57:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Navid Mughal]]></title>
+            <description><![CDATA[<h1>Navid Mughal</h1>]]></description>
+            <link>undefinednavid-mughal/index.html</link>
+            <guid isPermaLink="false">7aafea9e-0677-4f54-ad59-784de792be8e</guid>
+            <pubDate>Tue, 01 Mar 2016 17:57:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
