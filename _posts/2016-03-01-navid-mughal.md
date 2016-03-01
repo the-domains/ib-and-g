@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T17:59:52.584Z'
-dateModified: '2016-03-01T17:59:40.378Z'
+datePublished: '2016-03-01T18:07:31.625Z'
+dateModified: '2016-03-01T18:01:08.905Z'
 title: Navid Mughal
 author: []
 sourcePath: _posts/2016-03-01-navid-mughal.md
