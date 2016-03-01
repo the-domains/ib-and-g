@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[IB&G]]></title>
         <description><![CDATA[IB&G]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ib-and-g/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 17:57:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 18:00:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ib-and-g/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Navid Mughal]]></title>
-            <description><![CDATA[<h1>Navid Mughal</h1>]]></description>
-            <link>undefinednavid-mughal/index.html</link>
+            <description><![CDATA[<article><h1>Navid Mughal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/27f4ab30d41d9ed6f0e10ece197d527b84d39b43.png"></article>]]></description>
+            <link>https://thegrid.ai/ib-and-g/navid-mughal/index.html</link>
             <guid isPermaLink="false">7aafea9e-0677-4f54-ad59-784de792be8e</guid>
-            <pubDate>Tue, 01 Mar 2016 17:57:37 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 17:59:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
