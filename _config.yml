@@ -1,7 +1,7 @@
 name: 'IB&G'
 favicon: null
-layout_spectrum: 0.7636
-typography_spectrum: 0.60841
+layout_spectrum: 0.24892
+typography_spectrum: 0.52127
 title: null
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#c2cc5a'
     - '#7b7b7b'
     - '#090909'
-  brandStrength: 0.5525325320195407
-  lightness: 0.375
-  saturation: 0.5768601498566568
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
